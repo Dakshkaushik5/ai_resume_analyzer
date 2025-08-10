@@ -21,7 +21,7 @@ load_dotenv()
 # CRITICAL FIX: The st.set_page_config() call must be the first Streamlit command.
 # ---
 st.set_page_config(
-    page_title="AI Resume Analyzer & Job Matcher",
+    page_title="AI Resume Analyzer & Job Matcher --BY Daksh Kaushik",
     layout="wide",
     initial_sidebar_state="expanded"
 )
