@@ -1,6 +1,0 @@
-[server]
-headless = true
-enableCORS = false
-
-[main]
-post_install = "python -m spacy download en_core_web_sm"

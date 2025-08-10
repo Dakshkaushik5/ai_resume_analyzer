@@ -1,7 +1,3 @@
-build-essential
-libffi-dev
-libcairo2-dev
-libpango1.0-dev
-libgdk-pixbuf-2.0-dev
-libxml2-dev
-libxslt1-dev
+libpango-1.0-0
+libcairo2
+libgdk-pixbuf2.0-0
