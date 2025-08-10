@@ -1,0 +1,7 @@
+[server]
+headless = true
+enableCORS = false
+
+[main]
+# This is the command that will be executed after all other dependencies are installed
+post_install = "python -m spacy download en_core_web_sm"
